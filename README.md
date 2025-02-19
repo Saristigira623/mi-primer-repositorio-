@@ -1,1 +1,3 @@
-# mi-primer-repositorio-
+Sara Aristizabal Giraldo 
+Melany Bastidas Muñoz 
+Cristian Rueda Velasquez 
