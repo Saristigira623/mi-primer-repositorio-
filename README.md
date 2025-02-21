@@ -1,10 +1,13 @@
 # mi_primer_repositorio 
 o Su nombre: Sara Aristizabal Giraldo 
+
 o	Un breve resumen sobre lo aprendido
+
 En resumen, lo que he aprendido abarca un conjunto integral de conocimientos teóricos, habilidades prácticas, 
 competencias personales y valores éticos que son fundamentales para el desarrollo personal y profesional.
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores gestionar y realizar
 un seguimiento de los cambios en el código fuente de proyectos de software.
+
 
 o	Un listado de los comandos de Git más importantes y su función
 git init: Crea un nuevo repositorio de Git 
